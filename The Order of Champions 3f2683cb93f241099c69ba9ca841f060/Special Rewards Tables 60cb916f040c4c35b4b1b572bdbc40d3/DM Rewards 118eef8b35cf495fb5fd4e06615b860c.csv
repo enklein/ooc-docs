@@ -1,0 +1,15 @@
+﻿Reward Name,Requirements,Prerequisites,Your Reward,Reward for Others
+Basic DM Reward,DM a session,N/A,XP / GP / Downtime / Renown (as described below),The players: A great game!
+Demigod Duties,Assist in DMing a session,An inexperienced DM,XP per Tier (as described below),The DM you are assisting: Same Rewards as you
+A Place Among the Gods,DM your first OoC session,0 Hours DMing for the OoC Campaign,1000 XP,The DM who recruited you: Increasing the Pantheon Quest Reward
+Increasing the Pantheon,Recruit or Mentor someone to DM their first OoC Session,Recruit with 0 Hours DMing,7500 XP,The person you recruited: A Place Among the Gods Quest Reward
+Divine Rank [X],24 Hours DM Time,N/A,Variable (see description),The DM who recruited you: 3000 XP multiplied by X
+Everything in Life is Location,DM at a new venue,N/A,Increase totalrewards by 100%,Session Event: Travelling Priest
+Let's Do the Time Warp Again,Run the same mission many times,N/A,Bonus XP,The characters: Bonus XP
+It's Just Child's Play,DM for mostly younger players,Be Age 16+,Increase base rewards by 10%,The older players: Same as you / The younger players: Potion of Healing
+Teach Your Parents Well,DM for mostly older players,Be Age 15-,Increase base rewards by 10%,The younger players: Same as you / The older players: Potion of Healing
+Another Trip Around the Sun,Have a Birthday,A Place Among the Gods Quest Reward,Gain XP (see description),Your players: +20% to Rewards Cap for adventures during birthday week
+In-Network Benefits / Out-of-Network Coverage,Run a Session in your less common venue,<50% runtime hours in that venue,Increase base rewards by 20%,Your players: Increase base rewards by 10%
+On the Grid / Off the Grid,Run a session in your less common format,<50% runtime hours in that Format,Increase base rewards by 20%,Your players: Increase base rewards by 10%
+Answering the Call,Run a session unexpectedly,N/A,Increase base rewards by 50%,Your Players: They got to play after all!
+Teaching the Teachers,Run a Slot 0 Session to Train Other DMs,See Description,Increase base rewards by 30%,Your Players: Increase their base DM rewards by 20% if they run within 30 days
